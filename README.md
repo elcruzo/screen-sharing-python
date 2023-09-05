@@ -27,7 +27,7 @@ To use this script, you need the following:
 
 - Python 3.x
 - The `threading` module (usually included in Python standard library)
-- VidStream library (see how to install it below)
+- The `VidStream` library (see steps to install it below)
 - An active network connection
 - Two computers or instances to act as the sender and receiver
 
