@@ -87,6 +87,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Have fun exploring my Caesar Encryption tool! If you have any questions or run into issues, don't hesitate to ask for help.
+Have fun exploring my Screen Sharing tool! If you have any questions or run into issues, don't hesitate to ask for help.
 
 
