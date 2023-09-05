@@ -37,9 +37,23 @@ To use this script, you need the following:
 
    ```bash
    git clone https://github.com/elcruzo/screen-sharing-python.git
+   ```
+   
+2. Navigate the project directory:
+   
+   ```bash
    cd screen-sharing-python
+   ```
+   
+3. Ensure you have Python 3.x installed. You can check by running:
 
-2. Install the Vidstream Library.
+   ```bash
+   python3 --version
+   ```
+
+   If Python is not installed, you can download it from the official [Python website](https://www.python.org/downloads/).
+
+4. Install the Vidstream Library.
 
    ```bash
    pip install vidstream
