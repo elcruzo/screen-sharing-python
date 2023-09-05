@@ -27,7 +27,10 @@ To use this script, you need the following:
 
 - Python 3.x
 - The `threading` module (usually included in Python standard library)
-- The `VidStream` library (see steps to install it below)
+- The `VidStream` library, which can be installed using pip:
+  ```bash
+   pip install vidstream
+   ```
 - An active network connection
 - Two computers or instances to act as the sender and receiver
 
@@ -53,11 +56,7 @@ To use this script, you need the following:
 
    If Python is not installed, you can download it from the official [Python website](https://www.python.org/downloads/).
 
-4. Install the Vidstream Library.
-
-   ```bash
-   pip install vidstream
-
+   
 ## Usage
 
 Receiver (receiver.py)
